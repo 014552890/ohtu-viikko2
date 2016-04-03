@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-lisaa tamamuuttuu
-=======
-masteri tekstia
->>>>>>> toka
+lisaa tekstia
